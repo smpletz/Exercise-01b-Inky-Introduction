@@ -34,7 +34,7 @@ The light of your torch glints off the thousands of coins in the room.
 
 == east_inspect ==
 Looking at what has to be millions in treasure, a few things catch your eye.
-* [A lage sack sits to your left] -> sack_pickup
+* [A large sack sits to your left] -> sack_pickup
 * {sack_pickup} [Treasure lines the wall of the room] -> treasure_pickup
 + [A large ruby sits on a pedestal] -> ruby_pickup
 * [A lever juts out from the wall furthest from the entrance] -> lever_flip
